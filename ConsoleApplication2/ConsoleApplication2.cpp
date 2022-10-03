@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello World!\n";
 }
 
+//IWNL
+
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
 // Depurar programa: F5 o menú Depurar > Iniciar depuración
 
